@@ -1,3 +1,4 @@
 streamlit
 Pillow
 google-generativeai
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
